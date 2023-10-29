@@ -5,3 +5,4 @@
 3. Persiapan Lingkungan Pengembangan
 4. Sintaks PHP
 5. Struktur Kendali
+6. Function
