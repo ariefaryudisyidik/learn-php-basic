@@ -6,3 +6,4 @@
 4. Sintaks PHP
 5. Struktur Kendali
 6. Function
+7. Array
