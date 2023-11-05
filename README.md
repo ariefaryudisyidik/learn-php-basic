@@ -7,3 +7,4 @@
 5. Struktur Kendali
 6. Function
 7. Array
+8. Associative Array
