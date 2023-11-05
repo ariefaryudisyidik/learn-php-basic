@@ -8,3 +8,4 @@
 6. Function
 7. Array
 8. Associative Array
+9. GET & POST
