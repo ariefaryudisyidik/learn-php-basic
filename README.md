@@ -9,3 +9,4 @@
 7. Array
 8. Associative Array
 9. GET & POST
+10. Database & MySQL
