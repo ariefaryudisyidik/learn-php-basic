@@ -15,3 +15,4 @@
 13. UPDATE
 14. Searching
 15. Upload
+16. Registrasi
