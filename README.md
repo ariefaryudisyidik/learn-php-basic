@@ -19,3 +19,4 @@
 17. Login
 18. Session
 19. Cookie (Remember Me)
+20. Pagination
