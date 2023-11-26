@@ -21,3 +21,4 @@
 19. Cookie (Remember Me)
 20. Pagination
 21. Live Search (Menggunakan AJAX)
+22. Live Search (Menggunakan jQuery)
