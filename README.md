@@ -22,3 +22,4 @@
 20. Pagination
 21. Live Search (Menggunakan AJAX)
 22. Live Search (Menggunakan jQuery)
+23. PDF Reporting
