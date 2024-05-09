@@ -1,4 +1,4 @@
-# php
+# Learn PHP Basic (WPU)
 
 1. Intro
 2. Sejarah & Karakteristik PHP
